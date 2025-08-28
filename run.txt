@@ -1,0 +1,5 @@
+vlib work
+vlog *.v 
+vsim work.risc_test
+add wave *
+run -all
